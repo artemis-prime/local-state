@@ -1,6 +1,6 @@
 {
   "name": "@artemis-prime/local-state",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "light wrapper for window.localStorage",
   "main": "index.js",
   "scripts": {
